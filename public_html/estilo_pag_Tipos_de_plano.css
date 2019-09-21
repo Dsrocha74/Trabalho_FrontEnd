@@ -8,9 +8,7 @@ html{
     overflow: hidden;
 }
 body{
-    //cor do fundo
     background-color: #B0C4DE;
-    //cor da fonte
     color: #808080;
     margin: 0;
     padding: 0;
@@ -45,7 +43,6 @@ header::before{
     right: 0;
     top: 0;
     display: block;
-    //Imagem de fundo aqui
     background-image: url(Imagens/BG1.jpg);
     background-size: cover;
     transform-origin: center center 0;
